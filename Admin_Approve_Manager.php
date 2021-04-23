@@ -10,8 +10,9 @@ if ($conn->query($sql) === TRUE) {
     include('Popup_Approve_set_email.php');  
     
 } else {
-  echo "Error updating record: " . $conn->error;
+  echo "Error updating record: 55555 " . $conn->error;
 }
 
 $conn->close();
+
 ?>
