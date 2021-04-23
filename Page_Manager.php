@@ -22,7 +22,7 @@
 
     <div>
         <p>หากท่าต้องการเข้าใช่งานระบบต้องการขอสิทธิ์เข้าถึงก่อน</p>
-        <button  onclick="manager()" type="submit">ขอสิทธิ์</button>
+        <button  onclick="manager()" type="submit">ขอสิทธิ์ </button>
     </div>
 </body>
 <script type="text/javascript">
